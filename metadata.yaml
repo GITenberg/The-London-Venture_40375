@@ -1,0 +1,44 @@
+_repo: The-London-Venture_40375
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Sevier, Michel
+    alias: Sevier, Michael
+    birthdate: 1886
+    gutenberg_agent_id: '40584'
+    url: http://www.gutenberg.org/2009/agents/40584
+covers:
+- cover_type: archival
+  image_path: 40375-h/images/Arlen_front_cover.jpg
+creator:
+  author:
+    agent_name: Arlen, Michael
+    aliases:
+    - Kouyoumdjian, Dikran
+    - Guyumchean, Tigran
+    - Kuyumcuyan, Dikran
+    - Guyumchian, Tigran
+    - Kuyumchean, Dikran
+    - Guyumchyan, Tigran
+    - Kuyumjian, Dikran
+    - Guyumjyan, Tigran
+    - Kouyoumjian, Dikran
+    birthdate: 1895
+    deathdate: 1956
+    gutenberg_agent_id: '40583'
+    url: http://www.gutenberg.org/2009/agents/40583
+description: ''
+gutenberg_issued: '2012-07-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40375'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'London (England) -- Fiction'
+- !lcsh 'Love stories'
+- !lcc 'PR'
+title: The London Venture
+url: http://www.gutenberg.org/ebooks/40375
